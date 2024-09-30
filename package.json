@@ -1,5 +1,5 @@
 {
-  "name": "svelte-markdown",
+  "name": "@itssumitrai/svelte-markdown",
   "description": "A markdown renderer for Svelte",
   "version": "0.4.1",
   "main": "dist/sveltemarkdown.js",
