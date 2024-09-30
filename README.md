@@ -5,6 +5,7 @@
 [![npm](https://img.shields.io/npm/dw/svelte-markdown)](https://www.npmjs.com/package/svelte-markdown)
 ![NPM](https://img.shields.io/npm/l/svelte-markdown)
 
+This is a forked version of https://github.com/pablo-abc/svelte-markdown as the original seems to be unmaintained. This forked version is compatible with Svelte 5.
 A markdown parser that renders into Svelte Components. Inspired by [ReactMarkdown](https://github.com/remarkjs/react-markdown).
 
 ## Installation
